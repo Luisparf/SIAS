@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sias.h": "c",
+        "string.h": "c"
+    }
+}
